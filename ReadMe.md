@@ -49,7 +49,6 @@
 <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcloud" width="60"/>
 <img src="https://www.vectorlogo.zone/logos/google_drive/google_drive-icon.svg" alt="gdrive" width="60"/>
 <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="60"/>
-<img src="https://www.vectorlogo.zone/logos/openshift/openshift-icon.svg" alt="jenkins" width="60"/>
 <img src="https://www.vectorlogo.zone/logos/salesforce/salesforce-icon.svg" alt="salesforce" width="60"/>
 <img src="https://www.vectorlogo.zone/logos/dropbox/dropbox-icon.svg" alt="dropbox" width="60"/>
 <img src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-icon.svg" alt="jira" width="60"/>
