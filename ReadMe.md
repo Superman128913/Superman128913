@@ -14,9 +14,12 @@ I am a Full Stack developer with 7+ years of experience who is hands-on about so
   <a href="https://join.skype.com/invite/HVbWQxiNNgWb">
     <img width="60" height="60" src="https://www.vectorlogo.zone/logos/skype/skype-tile.svg" alt="Skype Badge"/>
   </a>
+  <a href="mail:sanjayloncha3101@gmail.com">
+    <img width="60" height="60" src="https://www.vectorlogo.zone/logos/gmail/gmail-tile.svg" alt="Gmail Badge"/>
+  </a>
 </div>
 
-# Tech Stack
+# Tech Stack 🤹‍♂️
 
 ## Languages
 
