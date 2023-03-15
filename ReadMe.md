@@ -1,43 +1,70 @@
-<p align="center">
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="1000">
-<!--📰RSS / TAKE IMAGE FROM https://github.com/trinib/trinib/blob/main/.images/marquee.svg TO YOUR REPO AND EDIT IT-->
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=shark&height=30&section=header&reversal=false&color=0:b579da,100:79da7f">
-<!--🤖ASCIIART / 🌐WEBSITES: https://asciiart.website/ & https://github.com/github/markup/issues/1440#issuecomment-803889380 -->
-<h4 align="center">
+# Andrew Charles
 
-```diff
-+@ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @+
-@@       o o                                           @@
-@@       | |                                           @@
-@@      _L_L_                                          @@
-@@   ❮\/__-__\/❯ Programming isn't about what you know @@
-@@   ❮(|~o.o~|)❯  It's about what you can figure out   @@
-@@   ❮/ \`-'/ \❯                                       @@
-@@     _/`U'\_                                         @@
-@@    ( .   . )     .----------------------------.     @@
-@@   / /     \ \    | while( ! (succed=try() ) ) |     @@
-@@   \ |  ,  | /    '----------------------------'     @@
-@@    \|=====|/                                        @@
-@@     |_.^._|                                         @@
-@@     | |"| |                                         @@
-@@     ( ) ( )   Testing leads to failure              @@
-@@     |_| |_|   and failure leads to understanding    @@
-@@ _.-' _j L_ '-._                                     @@
-@@(___.'     '.___)                                    @@
-+@ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @+
-```
-</h4>
-<!--🎨CAPSULE / 🌐WEBSITES: https://github.com/kyechan99/capsule-render -->
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=shark&height=30&section=footer&reversal=false&color=0:b579da,100:79da7f">
-<!--💬🃏FUNFACT / 🌐https://github.com/siddharth2016/quote-readme#update-your-readme -->
-<p align="center">
-<b>FUN FACT🤔 :</b>
-<!--STARTS_HERE_QUOTE_README-->
-<i>❝Doug Engelbart invented the first computer mouse in around 1964 which was made of wood.❞</i>
-<!--ENDS_HERE_QUOTE_README-->
+Hi! Thanks for giving me attention. I am a Full Stack developer with 7+ years of experience who is hands-on about solving problems and building products that are easy to deploy, simple to use, solve customer pain points, quick learning new concepts and technologies, and have an enterprise scale with a proven ability to deliver cutting edge enterprise products and solutions with strong multi skills. Specialized in building 20+ usable, useful, well-constructed websites and applications using Python, PHP, Javascript. Great experience in developing several fields such as Sports, Healthcare, B2B, B2C, Fintech, E-Commerce and so on. Developed the Hiring Meeting & Conference Website for graduates with zoom script, Token Swapping Sites, E-Learning Website for Children, Food Delivery and Ride Ordering Service Websites, Air-Conditioning Company Site, NFT marketplace Websites, NFT landing pages for minting and staking and so on.
+<br />
 
+# Contact with me 👋
+
+<div id="badges">
+  <a href="https://join.slack.com/t/secret-super-star/shared_invite/zt-1qedo2hr9-FPoMTGPqmVuIsDZlPcoAiw">
+    <img width="52" height="52" src="https://www.vectorlogo.zone/logos/slack/slack-tile.svg" alt="Slack Badge"/>
+  </a>
+  <a href="https://join.skype.com/invite/HVbWQxiNNgWb">
+    <img width="52" height="52" src="https://www.vectorlogo.zone/logos/skype/skype-tile.svg" alt="Skype Badge"/>
+  </a>
+</div>
+<br />
+
+# Tech Stack
+
+## Languages
+
+[![My Skills](https://skillicons.dev/icons?i=python,php,js,typescript&theme=light)](https://skillicons.dev)
+
+## Frameworks (Backend)
+
+[![My Skills](https://skillicons.dev/icons?i=django,flask,fastapi,laravel,nodejs,express&theme=light)](https://skillicons.dev)
+
+## Frameworks (Frontend)
+
+[![My Skills](https://skillicons.dev/icons?i=react,nextjs,vue,angular,jquery&theme=light)](https://skillicons.dev)
+
+## Frameworks (CSS)
+
+[![My Skills](https://skillicons.dev/icons?i=materialui,tailwind,bootstrap,styledcomponents&theme=light)](https://skillicons.dev)
+
+## Databases
+
+[![My Skills](https://skillicons.dev/icons?i=mongo,postgres,mysql,sqlite&theme=light)](https://skillicons.dev)
+
+## DevOps
+
+[![My Skills](https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp&theme=light)](https://skillicons.dev)
+
+## Code Testing & Review
+
+<img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="50"/>
+<img src="https://www.vectorlogo.zone/logos/eslint/eslint-icon.svg" alt="eslint" width="50"/>
+<img src="https://www.vectorlogo.zone/logos/blackducksoftware/blackducksoftware-icon.svg" alt="blackduck" width="50"/>
+
+## Data Science
+
+<img src="https://stack-icons.showwcase.com/Pandas.png" alt="pandas" width="50"/>
+<img src="https://www.vectorlogo.zone/logos/numpy/numpy-icon.svg" alt="numpy" width="50"/>
+<img src="https://www.vectorlogo.zone/logos/jupyter/jupyter-icon.svg" alt="jupyter" width="50"/>
+
+## Others
+
+<img src="https://www.vectorlogo.zone/logos/nginx/nginx-icon.svg" alt="nginx" width="50"/>
+<img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="50"/>
+<img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="terraform" width="50"/>
+<img src="https://www.vectorlogo.zone/logos/redis/redis-icon.svg" alt="redis" width="50"/>
+<img src="https://www.vectorlogo.zone/logos/stripe/stripe-icon.svg" alt="stripe" width="50"/>
+<img src="https://www.vectorlogo.zone/logos/digitalocean/digitalocean-icon.svg" alt="digitalocean" width="50"/>
+
+<br>
+
+#
 <!--🤔INTERESTTITLE-->
 <p align="center">
 <img src="https://i.imgur.com/ozEwbHs.gif">
@@ -46,8 +73,6 @@
 <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="linux" width="60">
 <img src="https://www.vectorlogo.zone/logos/redhat/redhat-icon.svg" alt="redhat" width="60">
 <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="60"/>
-<img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcloud" width="60"/>
-<img src="https://www.vectorlogo.zone/logos/google_drive/google_drive-icon.svg" alt="gdrive" width="60"/>
 <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="60"/>
 <img src="https://www.vectorlogo.zone/logos/salesforce/salesforce-icon.svg" alt="salesforce" width="60"/>
 <img src="https://www.vectorlogo.zone/logos/dropbox/dropbox-icon.svg" alt="dropbox" width="60"/>
@@ -55,7 +80,8 @@
 <img src="https://www.vectorlogo.zone/logos/trello/trello-icon.svg" alt="trello" width="60"/>
 <img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" alt="ansible" width="60"/>
 <img src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" alt="netlify" width="60"/>
-<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="netlify" width="60"/>
+<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="60"/>
+<img src="https://www.vectorlogo.zone/logos/supabase/supabase-icon.svg" alt="firebase" width="60"/>
 <img src="https://www.vectorlogo.zone/logos/ruby/ruby-icon.svg" alt="ruby" width="60"/>
 <img src="https://www.vectorlogo.zone/logos/android/android-icon.svg" alt="android" width="60"/>
 <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="60"/>
@@ -64,54 +90,10 @@
 <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="60"/>
 <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="60"/>
 <img src="https://www.vectorlogo.zone/logos/js_webpack/js_webpack-icon.svg" alt="webpack" width="60"/>
+</br>
 <img src="https://www.vectorlogo.zone/logos/paypal/paypal-icon.svg" alt="paypal" width="60"/>
 <img src="https://www.vectorlogo.zone/logos/payoneer/payoneer-icon.svg" alt="webpack" width="60"/>
 <img src="https://www.vectorlogo.zone/logos/bitcoin/bitcoin-icon.svg" alt="bitcoin" width="60"/>
-<img src="https://www.vectorlogo.zone/logos/freelancer/freelancer-icon.svg" alt="freelancer" width="60"/>
-<img src="https://www.vectorlogo.zone/logos/upwork/upwork-icon.svg" alt="upwork" width="60"/>
-<br />
-<code><img width="15%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
-<code><img width="15%" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg"></code>
-<code><img width="15%" src="https://www.vectorlogo.zone/logos/numpy/numpy-ar21.svg"></code>
-<code><img width="15%" src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg"></code>
-<code><img width="15%" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-ar21.svg"></code>
-<br />
-<code><img width="15%" src="https://www.vectorlogo.zone/logos/php/php-ar21.svg"></code>
-<code><img width="15%" src="https://www.vectorlogo.zone/logos/laravel/laravel-ar21.svg"></code>
-<code><img width="15%" src="https://www.vectorlogo.zone/logos/phpmyadmin/phpmyadmin-ar21.svg"></code>
-<br />
-<code><img width="15%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>
-<code><img width="15%" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg"></code>
-<code><img width="15%" src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-ar21.svg"></code>
-<code><img width="15%" src="https://www.vectorlogo.zone/logos/eslint/eslint-ar21.svg"></code>
-<code><img width="15%" src="https://www.vectorlogo.zone/logos/jquery/jquery-ar21.svg"></code>
-<br />
-<code><img width="15%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
-<code><img width="15%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"></code>
-<code><img width="15%" src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg"></code>
-<code><img width="15%" src="https://www.vectorlogo.zone/logos/vuejs/vuejs-ar21.svg"></code>
-<code><img width="15%" src="https://www.vectorlogo.zone/logos/angular/angular-ar21.svg"></code>
-<br />
-<code><img width="15%" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-ar21.svg"></code>
-<code><img width="15%" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg"></code>
-<code><img width="15%" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg"></code>
-<br />
-<code><img width="15%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
-<code><img width="15%" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg"></code>
-<code><img width="15%" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></code>
-<code><img width="15%" src="https://www.vectorlogo.zone/logos/redis/redis-ar21.svg"></code>
-<br />
-<code><img width="15%" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"></code>
-<code><img width="15%" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-ar21.svg"></code>
-<code><img width="15%" src="https://www.vectorlogo.zone/logos/terraformio/terraformio-ar21.svg"></code>
-<code><img width="15%" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg"></code>
-<br />
-<code><img width="15%" src="https://www.vectorlogo.zone/logos/okta/okta-ar21.svg"></code>
-<code><img width="15%" src="https://www.vectorlogo.zone/logos/stripe/stripe-ar21.svg"></code>
-<code><img width="15%" src="https://www.vectorlogo.zone/logos/apigee/apigee-ar21.svg"></code>
-<code><img width="15%" src="https://www.vectorlogo.zone/logos/nginx/nginx-ar21.svg"></code>
-<code><img width="15%" src="https://www.vectorlogo.zone/logos/blackducksoftware/blackducksoftware-ar21.svg"></code>
-
 </h4>
 
 <h4 align="right"> 
