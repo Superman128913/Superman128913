@@ -9,10 +9,10 @@ I am a Full Stack developer with 7+ years of experience who is hands-on about so
 
 <div>
   <a href="https://join.slack.com/t/secret-super-star/shared_invite/zt-1qedo2hr9-FPoMTGPqmVuIsDZlPcoAiw">
-    <img width="52" height="52" src="https://www.vectorlogo.zone/logos/slack/slack-tile.svg" alt="Slack Badge"/>
+    <img width="60" height="60" src="https://www.vectorlogo.zone/logos/slack/slack-tile.svg" alt="Slack Badge"/>
   </a>
   <a href="https://join.skype.com/invite/HVbWQxiNNgWb">
-    <img width="52" height="52" src="https://www.vectorlogo.zone/logos/skype/skype-tile.svg" alt="Skype Badge"/>
+    <img width="60" height="60" src="https://www.vectorlogo.zone/logos/skype/skype-tile.svg" alt="Skype Badge"/>
   </a>
 </div>
 
@@ -45,26 +45,26 @@ I am a Full Stack developer with 7+ years of experience who is hands-on about so
 ## Code Testing & Review
 
 <p>
-<img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="52" height="52"/>
-<img src="https://www.vectorlogo.zone/logos/eslint/eslint-icon.svg" alt="eslint" width="52" height="52"/>
-<img src="https://www.vectorlogo.zone/logos/blackducksoftware/blackducksoftware-icon.svg" alt="blackduck" width="52" height="52"/>
+<img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="50" height="50"/>
+<img src="https://www.vectorlogo.zone/logos/eslint/eslint-icon.svg" alt="eslint" width="50" height="50"/>
+<img src="https://www.vectorlogo.zone/logos/blackducksoftware/blackducksoftware-icon.svg" alt="blackduck" width="50" height="50"/>
 </p>
 
 ## Data Science
 
 <p>
-<img src="icons/Pandas.png" alt="pandas" width="52" height="52"/>
-<img src="https://www.vectorlogo.zone/logos/numpy/numpy-icon.svg" alt="numpy" width="52" height="52"/>
-<img src="https://www.vectorlogo.zone/logos/jupyter/jupyter-icon.svg" alt="jupyter" width="52" height="52"/>
+<img src="icons/Pandas.png" alt="pandas" width="50" height="50"/>
+<img src="https://www.vectorlogo.zone/logos/numpy/numpy-icon.svg" alt="numpy" width="50" height="50"/>
+<img src="https://www.vectorlogo.zone/logos/jupyter/jupyter-icon.svg" alt="jupyter" width="50" height="50"/>
 </p>
 
 ## Others
 
 <p>
-<img src="https://www.vectorlogo.zone/logos/nginx/nginx-icon.svg" alt="nginx" width="52" height="52"/>
-<img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="52" height="52"/>
-<img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="terraform" width="52" height="52"/>
-<img src="https://www.vectorlogo.zone/logos/redis/redis-icon.svg" alt="redis" width="52" height="52"/>
-<img src="https://www.vectorlogo.zone/logos/stripe/stripe-icon.svg" alt="stripe" width="52" height="52"/>
-<img src="https://www.vectorlogo.zone/logos/digitalocean/digitalocean-icon.svg" alt="digitalocean" width="52" height="52"/>
+<img src="https://www.vectorlogo.zone/logos/nginx/nginx-icon.svg" alt="nginx" width="50" height="50"/>
+<img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="50" height="50"/>
+<img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="terraform" width="50" height="50"/>
+<img src="https://www.vectorlogo.zone/logos/redis/redis-icon.svg" alt="redis" width="50" height="50"/>
+<img src="https://www.vectorlogo.zone/logos/stripe/stripe-icon.svg" alt="stripe" width="50" height="50"/>
+<img src="https://www.vectorlogo.zone/logos/digitalocean/digitalocean-icon.svg" alt="digitalocean" width="50" height="50"/>
 </p>
