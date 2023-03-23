@@ -8,7 +8,7 @@ I am a Full Stack developer with 7+ years of experience who is hands-on about so
 # Contact with me 👋
 
 <div>
-  <a href="https://join.slack.com/t/secret-super-star/shared_invite/zt-1qedo2hr9-FPoMTGPqmVuIsDZlPcoAiw">
+  <a href="https://join.slack.com/t/secretsuperstargroup/shared_invite/zt-1rtu7er38-j4iHuDZgUMTpmeUFyLHHCg">
     <img width="60" height="60" src="https://www.vectorlogo.zone/logos/slack/slack-tile.svg" alt="Slack Badge"/>
   </a>
   <a href="https://join.skype.com/invite/HVbWQxiNNgWb">
